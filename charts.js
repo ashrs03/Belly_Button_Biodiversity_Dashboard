@@ -79,7 +79,7 @@ function buildCharts(sample) {
         console.log(sample_values)
     
     // Variable that holds Washing freq
-        var washfreq = parseFloat(result.washfreq)
+        var washfreq = parseFloat(result.wfreq)
         console.log(washfreq)
     
     // 7. Create the yticks for the bar chart.
@@ -113,7 +113,7 @@ function buildCharts(sample) {
       marker:{
         size: sample_values,
         color: otu_ids,
-        
+        colorscale: "Earth"
       }
     }];
     // 2. Create the layout for the bubble chart.
