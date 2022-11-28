@@ -40,5 +40,5 @@ The final web page displayed as follows
 <img width="300" alt="Final_Result" src="https://user-images.githubusercontent.com/42523379/204211276-5f151cf3-9f81-4b12-99b2-aa645e93c6f5.PNG">
 
 The gauge can be further enhanced by building it to show an arrow that would point dynamically acrosss the guage scale however, in this case it is displaying a value that corresponds to the subject ID selected from the dropdown. 
-This information serves as a baseline to further build enhance the webpage and display data on dashboard that can be used effectively for biodiversity research project. 
+This information serves as a baseline to further enhance the webpage and display data on dashboard that can be used effectively for biodiversity research project. 
 
